@@ -1,0 +1,27 @@
+2024-04-13 21:44:43.232 [info] Log level: Info
+2024-04-13 21:44:43.232 [info] Validating found git in: "git"
+2024-04-13 21:44:43.232 [info] Using git "2.30.2" from "git"
+2024-04-13 21:44:43.232 [info] > git rev-parse --show-toplevel [2482ms]
+2024-04-13 21:44:43.232 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-04-13 21:44:43.232 [info] > git rev-parse --show-toplevel [55ms]
+2024-04-13 21:44:43.232 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-04-13 21:44:43.233 [info] > git rev-parse --show-toplevel [3ms]
+2024-04-13 21:44:43.233 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-04-13 21:44:43.254 [info] > git rev-parse --show-toplevel [2ms]
+2024-04-13 21:44:43.254 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-04-13 21:46:02.991 [info] > git rev-parse --show-toplevel [5ms]
+2024-04-13 21:46:02.991 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-04-13 21:47:09.310 [info] > git rev-parse --show-toplevel [4ms]
+2024-04-13 21:47:09.310 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-04-13 21:47:17.423 [info] > git rev-parse --show-toplevel [2ms]
+2024-04-13 21:47:17.423 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-04-13 21:49:03.995 [info] > git rev-parse --show-toplevel [2ms]
+2024-04-13 21:49:03.995 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

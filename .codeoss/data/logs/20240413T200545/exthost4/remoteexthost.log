@@ -1,0 +1,19 @@
+2024-04-13 21:44:40.117 [info] Extension host with pid 5531 started
+2024-04-13 21:44:40.238 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-04-13 21:44:40.251 [info] Lock '/home/andrii_petrykov/.codeoss/data/User/workspaceStorage/-5ece51fc/vscode.lock': Lock acquired.
+2024-04-13 21:44:40.313 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-04-13 21:44:40.313 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-04-13 21:44:40.609 [info] Eager extensions activated
+2024-04-13 21:44:40.609 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'
+2024-04-13 21:44:40.610 [info] ExtensionService#_doActivateExtension google.cloud-shell, startup: false, activationEvent: 'onStartupFinished'
+2024-04-13 21:44:40.610 [info] ExtensionService#_doActivateExtension googlecloudtools.cloudcode, startup: false, activationEvent: 'onStartupFinished'
+2024-04-13 21:44:40.610 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-04-13 21:44:40.611 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-04-13 21:44:43.275 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-04-13 21:44:43.276 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-04-13 21:44:43.276 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-04-13 21:47:09.222 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-04-13 21:47:09.222 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2024-04-13 22:12:54.964 [info] Extension host terminating: received terminate message from renderer
+2024-04-13 22:12:54.966 [info] Lock '/home/andrii_petrykov/.codeoss/data/User/workspaceStorage/-5ece51fc/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-04-13 22:12:55.001 [info] Extension host with pid 5531 exiting with code 0
